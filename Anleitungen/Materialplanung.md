@@ -53,12 +53,12 @@ Jeder OV sollte diese aber haben. Nutze bitte diese in der Zwischenzeit.
 | Vertikaldiagonale 200 x H |      |      |18    |     |      |18        |36          |
 | Vertikaldiagonale 300 x H |      |2     |2     |8    |4     |16        |32
 
-| Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
-|---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
-| Gewindefußplatte 40 cm 9 1 10                                             |      |      |      |     |      |          |
-| Gewindefußplatte 60 cm 2 4 6                                              |      |      |      |     |      |          |
-| Gewindefußplatte mit Schäkel 3 3                                          |      |      |      |     |      |          |
-| Anfangsstück 6 3 7 16                                                     |      |      |      |     |      |          |
+| Bezeichnung                  | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
+|------------------------------|------|------|------|-----|------|----------|--------------|
+| Gewindefußplatte 40 cm       |      |      |      |9    |1     |10        |
+| Gewindefußplatte 60 cm       |2     |4     |      |     |      |6         |
+| Gewindefußplatte mit Schäkel |3     |      |      |     |      |3         |
+| Anfangsstück                 |      |6     |3     |7    |      |16        |
 
 | Bezeichnung                                                               | BS 1 | BS 2 | BS 3 | BS4 | BS 5 | ∑ BS 1-5 | Knotenpunkte |
 |---------------------------------------------------------------------------|------|------|------|-----|------|----------|------------|
